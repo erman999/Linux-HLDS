@@ -1,8 +1,8 @@
 
-### Problem
+### Warning: failed to init SDL thread priority manager: SDL not found
 
-> Warning: failed to init SDL thread priority manager: SDL not found
-
-### Solution
-
+```sh
 sudo apt install libsdl2-2.0-0:i386
+```
+
+
